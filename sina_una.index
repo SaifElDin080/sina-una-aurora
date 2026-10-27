@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Sina Una Content</name>
+    <update version="1.0">
+      <file name="sina-una.index" url="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/sina-una.index" />
+    </update>
+  </info>
+  <files>
+    <file name="islands-of-sina-una-aurora.xml" url="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/islands-of-sina-una-aurora.xml" />
+  </files>
+</index>
