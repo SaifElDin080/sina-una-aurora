@@ -3,7 +3,7 @@
   <info>
     <name>Sina Una Content</name>
     <update version="1.0">
-      <file name="sina-una.index" url="https://raw.githubusercontent.com/SaifElDin080/sina-una-aurora/main/sina-una.index" />
+     <file name="sina_una.index" url="https://raw.githubusercontent.com/SaifElDin080/sina-una-aurora/main/sina_una.index" />
     </update>
   </info>
   <files>
