@@ -1,12 +1,3 @@
-No, my apologies. Because the previous code block was only meant to fix the specific **Race** error, I only included the fixed Races in that last message. 
-
-Here is the **complete, unified file** containing **ALL Races (fixed), Classes, Subclasses, Backgrounds, Feats, and Spells**. 
-
-I have fixed the Ability Score Increase (ASI) errors across the board by using Aurora's native `<stat>` and `<select>` tags. I also added the missing races: **Human**, **Half-Elf**, and **Deer Tiefling**.
-
-Copy this entire block and replace the contents of your `islands-of-sina-una-aurora.xml` file.
-
-```xml
 <?xml version="1.0" encoding="utf-8"?>
 <elements>
 
